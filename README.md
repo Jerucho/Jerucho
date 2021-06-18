@@ -1,0 +1,4 @@
+- 👋 Hellooo, I’m Jerucho or Jere
+-  📍 I’m in Argentina 🇦🇷
+- ✨ I’m currently learning JavaScript
+- 💎 Follow me on Instagram { @Jeruchop }
